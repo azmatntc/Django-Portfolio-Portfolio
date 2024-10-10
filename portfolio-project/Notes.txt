@@ -1,0 +1,7 @@
+Database Password
+User =admin
+Password= Redhat@5
+
+{% load static %}
+
+  
